@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **VishalNavgire54@Gmail.Com**
 
-- ⚡ Fun fact **I automate everything I can!**
+- ⚡ Fun fact  **If a task is repetitive, I automate it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
