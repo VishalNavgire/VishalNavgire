@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **VishalNavgire54@Gmail.Com**
 
-- ⚡ Fun fact  **If a task is repetitive, I automate it**
+- ⚡ Fun fact **I enjoy turning repetitive manual work into reliable automation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
