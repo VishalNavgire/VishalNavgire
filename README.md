@@ -7,11 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Turning+repetitive+manual+work+into+automation;%F0%9F%9A%80+12%2B+Years+of+IT+Infrastructure+Experience;%F0%9F%9B%A0%EF%B8%8F+Azure+%7C+Intune+%7C+MS+Entra+ID+%7C+PowerShell+%7C+Python;%F0%9F%92%BB+Building+custom+dashboards+with+Python+%26+Streamlit;%F0%9F%93%88+Expanding+IaC+skills+with+Terraform+%26+Ansible;%F0%9F%9B%A0+Homelab+Enthusiast+%7C+Docker+%7C+Fedora+KVM)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Navgire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalnavgire54)
-[![Twitter](https://img.shields.io/badge/Twitter-@VishalNavgire54-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalnavgire54)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VishalNavgire54@Gmail.Com)
-![Profile Views](https://komarev.com/ghpvc/?username=vishalnavgire&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS)
-
 </div>
 
 <br/>
